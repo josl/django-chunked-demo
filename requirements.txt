@@ -5,3 +5,4 @@ django-chunked-upload
 django-jwt-auth
 djangorestframework-jwt
 djangorestframework
+django-cors-headers
